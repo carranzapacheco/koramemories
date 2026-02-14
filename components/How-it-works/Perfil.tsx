@@ -52,7 +52,7 @@ export const Perfil: React.FC = () => {
               variants={cardVariants}
             >
               <h2 className="text-[#2E2E2E] text-xl font-serif font-bold mb-3">
-                Control Total de Privacidad
+                Panel administrativo
               </h2>
               <p className="text-[#1f1f1f] text-[14px] leading-relaxed">
                 Agrega imágenes y momentos especiales que quieras conservar para siempre
