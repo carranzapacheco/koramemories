@@ -75,7 +75,7 @@ export const Creaqr = () => {
           </p>
 
           <Link
-            href="/tienda"
+            href="/store"
             className="inline-block bg-[#C48B9F] hover:bg-[#C2A46D] text-white font-semibold py-3 px-8 rounded-full shadow-md transition-colors duration-300"
           >
             Crear mi Medallón
